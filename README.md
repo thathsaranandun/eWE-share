@@ -11,7 +11,7 @@ An electric vehicle charging community cross-platform mobile application that pr
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/eWE-share.git
+   git clone https://github.com/thathsaranandun/eWE-share.git
    cd eWE-share
    ```
 2. Navigate to the client folder and install dependencies:
