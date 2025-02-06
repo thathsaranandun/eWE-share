@@ -45,8 +45,6 @@ An electric vehicle charging community cross-platform mobile application that pr
 - **Machine Learning** (Prediction Algorithm)
 - **Arduino** (Power Monitoring)
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
